@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd6ef46-9abb-4a93-bc35-3ea459099b89" name="Changes" comment="스프링 의존성 주입" />
+    <list default="true" id="1dd6ef46-9abb-4a93-bc35-3ea459099b89" name="Changes" comment="views 폴더 명 수정" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +154,7 @@
       <workItem from="1663913790048" duration="505000" />
       <workItem from="1663919842036" duration="602000" />
       <workItem from="1664342577876" duration="13000" />
-      <workItem from="1664342594608" duration="808000" />
+      <workItem from="1664342594608" duration="1074000" />
     </task>
     <task id="LOCAL-00001" summary="프로젝트 생성">
       <created>1663913825026</created>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664343395903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="views 폴더 명 수정">
+      <created>1664343674669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664343674669</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +211,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="프로젝트 생성" />
     <MESSAGE value="스프링 의존성 주입" />
-    <option name="LAST_COMMIT_MESSAGE" value="스프링 의존성 주입" />
+    <MESSAGE value="views 폴더 명 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="views 폴더 명 수정" />
   </component>
 </project>
